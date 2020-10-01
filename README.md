@@ -1,5 +1,5 @@
 The Python tiny api Project - Copyright 2014 Michael C. Montero (mcmontero@gmail.com)
-
+Thank You and Welcome to This Project
 GOALS
 =====
 
